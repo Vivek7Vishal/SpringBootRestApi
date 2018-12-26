@@ -13,7 +13,7 @@
  # Running Application
  
  To run the application on default port 8090-
- - navigate to package com.recmort.mortgages.config
+ - navigate to package com.recrmort.mortgages.config
  - run the file - MortgagesApiApplication.java  as spring boot app with Run As Command  - 
  - default url of the api should look like - localhost:8090/api/interest-rates
  - use POSTMAN to check /run the post request with mentioned inputs as form data
