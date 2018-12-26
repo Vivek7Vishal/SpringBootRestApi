@@ -17,7 +17,7 @@
  - default url of the api should look like - localhost:8080/api/interest-rates
  
 # Change the default server port 
-- navigate to application.properties at  src/main/resource 
-- change the line server.port = <your port number> 
+- navigate to file  application.properties at  src/main/resource 
+- change the line server.port = your port number
   
  
