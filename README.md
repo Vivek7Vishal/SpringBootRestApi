@@ -1,12 +1,12 @@
 ﻿# Description
  
  The package contains two rest end points with the capabilities  as described below 
- GET - api/interest-rates
- GET -api/mortgage-check
+ - GET - api/interest-rates
+ - GET -api/mortgage-check
  
  # Getting Started
  
- Take a pull or download the code and open in your favourite IDE. 
+ - Take a pull or download the code and open in your favourite IDE. 
  - requires at least maven 3.3.3 and Java 8 
  
  # Running Application
