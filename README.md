@@ -2,7 +2,7 @@
  
  The package contains two rest end points with the capabilities  as described below 
  - GET - api/interest-rates
- - GET -api/mortgage-check
+ - POST -api/mortgage-check
  - Detailed description - available in the last section
  
  # Getting Started
