@@ -1,0 +1,10 @@
+INSERT INTO MORTGAGES VALUES (1, '1.59', parsedatetime('23-12-2018 14:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (2, '1.62', parsedatetime('23-12-2018 14:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (3, '1.64', parsedatetime('23-12-2018 14:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (5, '1.70', parsedatetime('23-12-2018 14:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (6, '1.74', parsedatetime('20-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (7, '1.77', parsedatetime('20-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (10, '1.85', parsedatetime('20-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (12, '2.01', parsedatetime('01-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (15, '2.24', parsedatetime('01-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
+INSERT INTO MORTGAGES VALUES (20, '2.33', parsedatetime('01-12-2018 12:00:00.690', 'dd-MM-yyyy hh:mm:ss.SSS'));
