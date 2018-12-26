@@ -23,3 +23,11 @@
 - change the line server.port = your port number
   
  
+# Detailed Description - Get (api/interest-rates)
+
+- Gives the current list of mortage interest rates with the maturity period combination. Each rate of interest value indicates the rate based on provided maturity rate.
+- The response also contains attribute - lastUpdate - indicates the last published date of interest.
+- The values of interest rates, maturity period , and last published date can be added/updated/deleted  with the file data.sql present in resource directory(src/main/resource). 
+- There is no code change needed to do the above. The rates will be updated in the H2 repository as soon as application is restarted.
+
+# Detailed Description - POST (api/mortgage-check)
